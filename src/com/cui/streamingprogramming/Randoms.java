@@ -13,6 +13,9 @@ public class Randoms {
                 .limit(7)
                 .sorted()
                 .forEach(System.out::println);
+
+        HashMap<String, String> stringStringHashMap = new HashMap<>();
     }
+
 }
 
